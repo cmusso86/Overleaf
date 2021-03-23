@@ -1,8 +1,9 @@
 ---
-title: "Teste"
-author: "Carolina Musso"
-date: "23/03/2021"
-output: pdf_document
+title: Sample title of the paper
+bibliography: mybiblio.bib
+output:
+ pdf_document:
+ keep_tex: true
 ---
 
 ```{r setup, include=FALSE}
