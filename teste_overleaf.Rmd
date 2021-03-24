@@ -1,9 +1,8 @@
 ---
-title: Sample title of the paper
-bibliography: mybiblio.bib
+title: "Testando Overleaf"
 output:
  pdf_document:
- keep_tex: true
+  keep_tex: true
 ---
 
 ```{r setup, include=FALSE}
